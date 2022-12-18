@@ -1,12 +1,12 @@
-﻿Imports System.Windows
+Imports System.Windows
 
 Namespace DXMap_SearchProvider
 
-    Partial Public Class MainWindow
+    Public Partial Class MainWindow
         Inherits Window
 
         Public Sub New()
-            InitializeComponent()
+            Me.InitializeComponent()
         End Sub
     End Class
 End Namespace
